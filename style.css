@@ -1,0 +1,106 @@
+body
+{
+	font-family: "Calibri", self;
+	background-color: #606060;
+	color: white;
+	height: 100vh;
+	overflow: hidden;
+}
+
+#content
+{
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	overflow: hidden;
+}
+
+#content h3{
+	padding: 0;
+	margin: 0;
+	margin-bottom: 1rem;
+}
+
+#header
+{
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	color: white;
+	font-size: 26px;
+	padding: 1rem;
+}
+
+#taliaKart
+{
+	border-radius: 10px;
+}	
+
+#twojeKarty
+{
+	border-bottom: 5px dotted white;
+}
+
+#kartyPrzeciwnika
+{
+
+}
+
+.karta
+{
+	border-radius: 10px;
+	margin-right: 10px;
+	height: 25vh;
+}
+
+.przycisk
+{
+	background-color: #808080;
+	color: white;
+	border-radius: 10px;
+	display: inline-block;
+	padding: 10px;
+	margin-left: 10px;
+	margin-right: 10px;
+	min-width: 70px;
+	font-size: 20px;
+}
+
+.przycisk:hover
+{
+	background-color: #aaa;
+	cursor: pointer;
+}	
+
+#przyciski
+{
+	padding: 20px;
+}
+
+.remis
+{
+	color: yellow;
+	font-size: 30px;
+}
+
+.przegrana
+{
+	color: #ff0000;
+	font-size: 30px;
+}	
+
+.wygrana
+{
+	color: #00ff00;
+	font-size: 30px;
+}
+
+.end-text{
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	background-color: rgba(33, 33, 33, 0.5);
+	padding: 20px;
+	border-radius: 20px;
+}
