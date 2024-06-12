@@ -41,19 +41,13 @@ Prosta gra przeglądarkowa zrobiona za pomocą HTML, CSS i JavaScript. Spróbuj 
 
 Karty zrobione samodzielnie w programie Gimp.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- LICENSE -->
 ## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- CONTACT -->
 ## Contact
 
 Dawid Waszak - https://dawid-waszak.github.io
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
